@@ -1,0 +1,8 @@
+Link dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+Artigo dataset: https://arxiv.org/abs/2503.04137
+Artigo 2 dataset: https://ieeexplore.ieee.org/document/10743921
+
+Dataset não tem NaNs.
+
+Definição do problema:
+É possível identificar diferentes perfis de estilo de vida e saúde na população a partir de hábitos como tabagismo, alimentação e atividade física?
